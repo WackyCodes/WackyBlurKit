@@ -1,6 +1,9 @@
 # WackyBlurKit
 **Welcome to the WackyBlurKit !**
 
+**First of All I thank to [@CameraKit](https://github.com/CameraKit). This is copy version of [blurkit](https://github.com/CameraKit/blurkit-android)**
+And This is just starting version. I will update it and release with many other features.
+
 WackyBlurKit is used to add glassy effect.
 
 **To Use this library just follow the simple steps given below -**
