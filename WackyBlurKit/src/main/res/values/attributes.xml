@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        This file is created by Shailendra lodhi
+        https://linktr.ee/wackycodes
+    -->
+
+    <!--region  Blur Layout  -->
+    <declare-styleable name="BlurLayout">
+        <attr name="blk_downscaleFactor" format="float" />
+        <attr name="blk_blurRadius" format="integer" />
+        <attr name="blk_fps" format="integer" />
+        <attr name="blk_cornerRadius" format="dimension" />
+        <attr name="blk_alpha" format="float" />
+        <attr name="blk_runBlur" format="boolean"/>
+    </declare-styleable>
+    <!--endregion -->
+
+    <!--region  Circular ImageView  -->
+    <declare-styleable name="CircularImageView">
+        <attr name="w_border" format="boolean"/>
+        <attr name="w_border_width" format="dimension"/>
+        <attr name="w_border_color" format="color"/>
+        <attr name="w_shadow" format="boolean"/>
+        <attr name="w_shadow_color" format="color"/>
+        <attr name="w_shadow_radius" format="float"/>
+
+    </declare-styleable>
+    <!--endregion -->
+
+</resources>
